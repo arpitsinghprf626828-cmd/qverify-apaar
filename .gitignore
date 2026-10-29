@@ -1,0 +1,14 @@
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+data/
+data/keys/private.json
+data/keys/pseudo.key
+data/state.json
+.DS_Store
+Thumbs.db
+.vscode/

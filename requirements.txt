@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas
+numpy
+scikit-learn
+cryptography
+dilithium-py
+qrcode[pil]
+pytest
